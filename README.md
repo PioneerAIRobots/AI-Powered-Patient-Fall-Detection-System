@@ -64,17 +64,29 @@ This project demonstrates:
 It shows how AI + Web Engineering + UX Design can directly improve patient safety.
 
 🏗️ System Architecture Overview
+
 Camera Feed
+
      ↓
+     
 OpenCV Video Capture
+
      ↓
+     
 YOLOv8 Inference Engine
+
      ↓
+     
 Fall Classification Logic
+
      ↓
+     
 Flask Backend Server
+
      ↓
+     
 Live Dashboard (SAFE / FALL Alert UI)
+
 
 
 
@@ -89,17 +101,7 @@ Open your browser and visit:
 
 http://127.0.0.1:5000
 
-📂 Project Structure
 
-ai-fall-detection/
-│
-├── models/                 # YOLOv8 model weights
-├── static/                 # CSS, JS, assets
-├── templates/              # HTML dashboard
-├── fall_detection.py       # Core detection logic
-├── app.py                  # Flask server
-├── requirements.txt
-└── README.md
 🛠️ Version 1 Capabilities
 
 Single-patient monitoring
@@ -113,12 +115,19 @@ Real-time UI state change
 🔮 Planned Upgrades (Roadmap)
 
 🔹 Pose-based fall detection (higher accuracy)
+
 🔹 Fall confirmation logic (reduce false alarms)
+
 🔹 Sound + SMS alerts to nurses
+
 🔹 Multi-patient monitoring dashboard
+
 🔹 Fall history logging & analytics
+
 🔹 Cloud deployment for hospital networks
+
 🔹 Integration with Electronic Health Records (EHR)
+
 
 🌍 Long-Term Vision
 
