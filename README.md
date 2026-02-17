@@ -95,7 +95,7 @@ Live Dashboard (SAFE / FALL Alert UI)
 
 git clone https://github.com/your-username/ai-fall-detection.git
 
-python app.py
+python main.py
 
 Open your browser and visit:
 
