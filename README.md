@@ -2,6 +2,11 @@
 Falls are one of the leading causes of injury in hospitals, elder-care facilities, and rehabilitation centers.
 This project presents a Real-Time AI-Based Patient Fall Detection System designed to assist healthcare professionals with intelligent, automated monitoring.
 
+
+![Image](https://github.com/user-attachments/assets/38017ba6-47a7-4667-9adb-467d6cccb1fe)
+
+
+
 This is not just a demo — it’s a step toward smarter, AI-driven patient safety systems.
 
 🧠 Tech Stack
