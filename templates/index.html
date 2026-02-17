@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hospital Fall Monitoring System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="header">
+    <h1>🏥 Patient Fall Detection System</h1>
+    <p>AI Powered Medical Monitoring</p>
+</div>
+
+<div class="container">
+
+    <div class="video-card">
+        <img src="{{ url_for('video') }}" width="100%">
+    </div>
+
+    <div class="status-card">
+        <h2>Patient Status</h2>
+
+        <div id="statusIndicator" class="safe">
+            🟢 SAFE
+        </div>
+
+        <div class="info-box">
+            <p><strong>Monitoring:</strong> Active</p>
+            <p><strong>Model:</strong> YOLOv8</p>
+            <p><strong>Alert System:</strong> Enabled</p>
+        </div>
+    </div>
+
+</div>
+
+<div class="footer">
+    <p>© 2026 AI Medical Monitoring System</p>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
