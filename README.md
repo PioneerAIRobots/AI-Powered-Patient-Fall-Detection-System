@@ -80,20 +80,17 @@ Live Dashboard (SAFE / FALL Alert UI)
 
 🚀 Installation & Setup
 1️⃣ Clone the Repository
+
 git clone https://github.com/your-username/ai-fall-detection.git
-cd ai-fall-detection
-2️⃣ Create Virtual Environment
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-4️⃣ Run the Application
+
 python app.py
 
 Open your browser and visit:
 
 http://127.0.0.1:5000
+
 📂 Project Structure
+
 ai-fall-detection/
 │
 ├── models/                 # YOLOv8 model weights
