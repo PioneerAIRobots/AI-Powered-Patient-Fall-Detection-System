@@ -11,60 +11,60 @@ This is not just a demo — it’s a step toward smarter, AI-driven patient safe
 
 🧠 Tech Stack
 
-YOLOv8 – Real-time object detection (Computer Vision)
+     YOLOv8 – Real-time object detection (Computer Vision)
 
-OpenCV – Live video processing
+     OpenCV – Live video processing
 
-Flask – Backend & web deployment
+     Flask – Backend & web deployment
 
-HTML/CSS/JS – Interactive medical dashboard UI
+     HTML/CSS/JS – Interactive medical dashboard UI
 
-Python – Core system logic
+     Python – Core system logic
 
 ✨ Key Features
 
-✔ Real-time patient fall detection
-✔ Live video stream with AI bounding-box annotations
-✔ Animated medical alert dashboard
-✔ Synchronized SAFE / FALL status display
-✔ Clean, hospital-grade responsive UI
-✔ Backend–Frontend real-time communication
+     ✔ Real-time patient fall detection
+     ✔ Live video stream with AI bounding-box annotations
+     ✔ Animated medical alert dashboard
+     ✔ Synchronized SAFE / FALL status display
+     ✔ Clean, hospital-grade responsive UI
+     ✔ Backend–Frontend real-time communication
 
 🏥 Why This Matters for Healthcare
 
 Early fall detection:
 
-⏱ Reduces emergency response time
+     ⏱ Reduces emergency response time
 
-🛑 Helps prevent severe injuries & complications
+     🛑 Helps prevent severe injuries & complications
 
-👵 Supports elderly & post-surgery patients
+     👵 Supports elderly & post-surgery patients
 
-👩‍⚕️ Assists overburdened hospital staff
+     👩‍⚕️ Assists overburdened hospital staff
 
 Potential Use Cases
 
-Ward monitoring assistant
+     Ward monitoring assistant
 
-Elder-care surveillance system
+     Elder-care surveillance system
 
-Smart ICU monitoring module
+     Smart ICU monitoring module
 
-Rehabilitation center patient supervision
+     Rehabilitation center patient supervision
 
 💻 Why This Matters for Engineers
 
 This project demonstrates:
 
-⚡ Real-time AI inference in production
+     ⚡ Real-time AI inference in production
 
-🌐 Streaming AI models over web applications
+     🌐 Streaming AI models over web applications
 
-🔄 Backend–Frontend synchronization
+     🔄 Backend–Frontend synchronization
 
-🧩 Human-centric AI system design
+     🧩 Human-centric AI system design
 
-🎯 Applied Computer Vision in healthcare
+     🎯 Applied Computer Vision in healthcare
 
 It shows how AI + Web Engineering + UX Design can directly improve patient safety.
 
@@ -98,82 +98,82 @@ Live Dashboard (SAFE / FALL Alert UI)
 🚀 Installation & Setup
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/ai-fall-detection.git
+     git clone https://github.com/your-username/ai-fall-detection.git
 
-python main.py
+     python main.py
 
-Open your browser and visit:
+     Open your browser and visit:
 
-http://127.0.0.1:5000
+     http://127.0.0.1:5000
 
 
 🛠️ Version 1 Capabilities
 
-Single-patient monitoring
+     Single-patient monitoring
 
-Live camera detection
+     Live camera detection
 
-Immediate visual alert trigger
+     Immediate visual alert trigger
 
-Real-time UI state change
+     Real-time UI state change
 
 🔮 Planned Upgrades (Roadmap)
 
-🔹 Pose-based fall detection (higher accuracy)
+     🔹 Pose-based fall detection (higher accuracy)
 
-🔹 Fall confirmation logic (reduce false alarms)
+     🔹 Fall confirmation logic (reduce false alarms)
 
-🔹 Sound + SMS alerts to nurses
+     🔹 Sound + SMS alerts to nurses
 
-🔹 Multi-patient monitoring dashboard
+     🔹 Multi-patient monitoring dashboard
 
-🔹 Fall history logging & analytics
+     🔹 Fall history logging & analytics
 
-🔹 Cloud deployment for hospital networks
+     🔹 Cloud deployment for hospital networks
 
-🔹 Integration with Electronic Health Records (EHR)
+     🔹 Integration with Electronic Health Records (EHR)
 
 
 🌍 Long-Term Vision
 
-Build a scalable AI-powered hospital monitoring platform capable of:
+     Build a scalable AI-powered hospital monitoring platform capable of:
 
-Multi-camera infrastructure
+     Multi-camera infrastructure
 
-Smart alerts & predictive analytics
+     Smart alerts & predictive analytics
 
-Centralized hospital dashboards
+     Centralized hospital dashboards
 
-Cloud-based monitoring systems
+     Cloud-based monitoring systems
 
 🤝 Open to Collaboration
 
 I would love to collaborate with:
 
-👨‍⚕️ Doctors interested in AI-assisted monitoring
+     👨‍⚕️ Doctors interested in AI-assisted monitoring
 
-🧬 Biomedical engineers
+     🧬 Biomedical engineers
 
-🚀 Healthcare startups
+     🚀 Healthcare startups
 
-🔬 Computer vision researchers
-
-🏥 Hospital IT teams
+     🔬 Computer vision researchers
+     
+     🏥 Hospital IT teams
 
 Let’s build safer hospitals using AI.
 
 📜 License
 
-This project is open-source and available under the MIT License.
+     This project is open-source and available under the MIT License.
 
 ⭐ Support
 
-If you find this project interesting or useful:
+     If you find this project interesting or useful:
 
-Give it a ⭐ on GitHub
+     Give it a ⭐ on GitHub
 
-Fork it
+     Fork it
 
-Contribute
+     Contribute
 
-Share feedback
+     Share feedback
