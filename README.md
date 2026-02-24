@@ -218,7 +218,7 @@ I would love to connect and collaborate with:
 
 **Let's build safer hospitals using AI.**
 
-📧 Reach out via [LinkedIn](https://linkedin.com/in/your-profile) or open an issue on this repo.
+📧 Reach out via [LinkedIn](https://www.linkedin.com/in/mansoor-alam-085b19116/) or open an issue on this repo.
 
 ---
 
